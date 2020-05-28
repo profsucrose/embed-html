@@ -8,6 +8,10 @@
     "templating",
     "html"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/profsucrose/embed-html"
+  },
   "author": "profsucrose",
   "license": "MIT"
 }
