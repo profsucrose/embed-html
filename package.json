@@ -1,0 +1,13 @@
+{
+  "name": "embed-html",
+  "version": "1.0.0",
+  "description": "Ultra-simple HTML templating",
+  "main": "index.js",
+  "keywords": [
+    "express",
+    "templating",
+    "html"
+  ],
+  "author": "profsucrose",
+  "license": "MIT"
+}
